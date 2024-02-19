@@ -1,0 +1,19 @@
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*_ilk
+*_meta
+*_obj
+*_iobj
+*_pch
+*_pdb
+*_ipdb
+*_pgc
+*_pgd
+*_rsp
+*_sbr
+*_dll
+
+Task1.GeneratedMSBuildEditorConfig.editorconfig
+Task1.assets.cache
